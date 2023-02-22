@@ -1,0 +1,4 @@
+numpy==1.22.3
+apache-beam==2.45.0
+apache-beam[gcp]
+jsons==1.6.3
